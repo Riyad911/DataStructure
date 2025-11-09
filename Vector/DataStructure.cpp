@@ -84,6 +84,7 @@ int main()
 	cout << "\nThe Elements After Delete Smaller Than Adjacent Neighbors: ";
 	v3.smaller_adijacent();
 	cout << "\n\n\n\n\n\n";
+
 	return 0;
 }
 
